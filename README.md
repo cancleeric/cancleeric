@@ -4,7 +4,7 @@
 
 AI Agent & LLM Platforms · Multi-Tenant SaaS · Enterprise Modernization
 
-[HurricaneSoft](https://www.hurricanesoft.com.tw/) · [技術與交付實績](https://cancleeric.github.io/resume/design/index-light.html) · [LinkedIn](https://www.linkedin.com/in/cancleeric/)
+[HurricaneSoft](https://www.hurricanesoft.com.tw/) · [技術與交付實績](https://cancleeric.github.io/resume/design/index-light.html) · [LinkedIn](https://www.linkedin.com/in/%E8%8B%B1%E8%B1%AA-%E7%8E%8B-8b399a73/)
 
 ## About
 
